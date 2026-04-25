@@ -1,5 +1,5 @@
 # Task-Manager
-Backend-based task management system with authentication and priority-based scheduling using Node.js and MongoDB
+ Backend-based task management system with REST APIs and priority-based scheduling using Node.js and Express.
 # Smart Task Management System
 
 ## Overview
